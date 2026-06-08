@@ -1,17 +1,155 @@
-<h1 align="center">Hi 👋, I'm Sharanya shetty</h1>
-<h3 align="center">🚀 A passionate Frontend Developer & AI Enthusiast from India</h3>
+<h1 align="center">hey, i'm sharanya 👋</h1>
 
+<h3 align="center">
+🎬 movie enthusiast • 🎨 sketch artist • 🤖 AI builder • 🎧 collector of underrated music
+</h3>
 
-
-- 📫 How to reach me **sharanya6874@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sharanya-shetty-951488263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharanya-shetty-951488263/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sharanya-shetty-951488263/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+## 🌸 About Me
 
+```python
+class Sharanya:
+    def __init__(self):
+        self.location = "Karnataka, India"
+        self.education = "M.E. Big Data Analytics @ MAHE"
+        self.languages = ["Python", "SQL", "C", "Java"]
+        self.interests = [
+            "AI & Machine Learning",
+            "Movies",
+            "Anime",
+            "K-Dramas",
+            "Sketching",
+            "Music Discovery"
+        ]
+
+    def current_status(self):
+        return "Building AI projects while adding movies to my watchlist faster than I can watch them."
+```
+
+- 🎓 Big Data Analytics Student
+- 🤖 Interested in AI, ML, Data Analytics & LLMs
+- 🎤 Built a Kannada Voice-Enabled RAG System
+- 🔍 Currently exploring Deepfake Audio Detection
+- 🎨 Love sketching and painting
+- 🎬 Psychological thrillers have my heart
+- 🎧 Always searching for underrated songs
+- ☕ Converting caffeine into code
+
+---
+
+## 🚀 Current Projects
+
+### 🗣️ Kannada Voice RAG System
+A voice-enabled Retrieval-Augmented Generation system for Kannada language information retrieval.
+
+### 🎙️ Deepfake Audio Detection
+Using deep learning and acoustic features to distinguish real and AI-generated speech.
+
+### 🏫 Smart Attendance System
+RFID-based student attendance management system with secure admin and student portals.
+
+### 🤟 Sign Language Recognition
+Real-time ASL gesture recognition and translation system.
+
+---
+
+## 🎬 Entertainment Stats
+
+### My Top 4 Movies
+
+🏆 The Prestige
+
+🏆 Shutter Island
+
+🏆 Prisoners
+
+🏆 The Wild Robot
+
+---
+
+## 🎧 Current Life Loop
+
+```text
+Wake up
+   ↓
+Listen to music
+   ↓
+Watch movie clips
+   ↓
+Write code
+   ↓
+Debug
+   ↓
+Question life choices
+   ↓
+Fix bug accidentally
+   ↓
+Watch another movie
+   ↓
+Repeat
+```
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### AI / Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+### Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Philosophy
+
+```text
+90% Learning
+8% Coding
+1% Debugging
+1% Googling why the code worked yesterday
+```
+
+---
+
+## 🎨 Fun Facts
+
+- I can discuss movie theories for hours.
+- My music playlist changes every week.
+- I start personal projects faster than I finish them.
+- I sketch when I need a break from screens.
+- Half my saved posts are AI related, the other half are movie recommendations.
+
+---
+
+## 📫 Reach Me
+
+📧 sharanya6874@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/sharanya-shetty-951488263/
+
+---
+
+<p align="center">
+  <i>"Training models, collecting hobbies, and adding movies to my watchlist faster than reality allows."</i>
+</p>
