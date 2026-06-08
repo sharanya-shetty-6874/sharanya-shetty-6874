@@ -6,8 +6,6 @@
 - 📫 How to reach me **sharanya6874@gmail.com**
 
 
-- ⚡**I crack bad jokes, give movie & series recommendations, and somehow people still laugh 💀🤷‍♀️**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sharanya-shetty-951488263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharanya-shetty-951488263/" height="30" width="40" /></a>
