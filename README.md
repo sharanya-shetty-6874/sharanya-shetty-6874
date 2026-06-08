@@ -39,35 +39,50 @@ Real-time ASL gesture recognition and translation system.
 ---
 
 ## 💻 Tech Stack
+### 👨‍💻 Programming
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java,r,mysql,git" />
+</p>
 
-### AI / Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+### 📊 Data Analytics & Engineering
 
-### Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
----
+### 🤖 Artificial Intelligence & Machine Learning
 
-## 📊 GitHub Philosophy
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+</p>
 
-```text
-90% Learning
-8% Coding
-1% Debugging
-1% Googling why the code worked yesterday
-```
+### 🧠 Generative AI & LLMs
+
+<p>
+  <img src="https://img.shields.io/badge/RAG-Pipeline-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector%20Databases-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-00C853?style=for-the-badge"/>
+</p>
+
+### 🌐 Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,flask,html,css" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,github" />
+</p>
 
 ---
 
