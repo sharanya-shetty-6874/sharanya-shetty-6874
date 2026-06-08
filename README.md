@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm sharanya 👋</h1>
+<h1 align="center">Heyy, I'm Sharanya 👋</h1>
 
 <h3 align="center">
 🎬 movie enthusiast • 🎨 sketch artist • 🤖 AI builder • 🎧 collector of underrated music
