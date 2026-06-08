@@ -14,33 +14,11 @@
 
 ## 🌸 About Me
 
-```python
-class Sharanya:
-    def __init__(self):
-        self.location = "Karnataka, India"
-        self.education = "M.E. Big Data Analytics @ MAHE"
-        self.languages = ["Python", "SQL", "C", "Java"]
-        self.interests = [
-            "AI & Machine Learning",
-            "Movies",
-            "Anime",
-            "K-Dramas",
-            "Sketching",
-            "Music Discovery"
-        ]
-
-    def current_status(self):
-        return "Building AI projects while adding movies to my watchlist faster than I can watch them."
-```
-
 - 🎓 Big Data Analytics Student
 - 🤖 Interested in AI, ML, Data Analytics & LLMs
 - 🎤 Built a Kannada Voice-Enabled RAG System
-- 🔍 Currently exploring Deepfake Audio Detection
 - 🎨 Love sketching and painting
-- 🎬 Psychological thrillers have my heart
-- 🎧 Always searching for underrated songs
-- ☕ Converting caffeine into code
+
 
 ---
 
@@ -57,44 +35,6 @@ RFID-based student attendance management system with secure admin and student po
 
 ### 🤟 Sign Language Recognition
 Real-time ASL gesture recognition and translation system.
-
----
-
-## 🎬 Entertainment Stats
-
-### My Top 4 Movies
-
-🏆 The Prestige
-
-🏆 Shutter Island
-
-🏆 Prisoners
-
-🏆 The Wild Robot
-
----
-
-## 🎧 Current Life Loop
-
-```text
-Wake up
-   ↓
-Listen to music
-   ↓
-Watch movie clips
-   ↓
-Write code
-   ↓
-Debug
-   ↓
-Question life choices
-   ↓
-Fix bug accidentally
-   ↓
-Watch another movie
-   ↓
-Repeat
-```
 
 ---
 
@@ -135,8 +75,6 @@ Repeat
 
 - I can discuss movie theories for hours.
 - My music playlist changes every week.
-- I start personal projects faster than I finish them.
-- I sketch when I need a break from screens.
 - Half my saved posts are AI related, the other half are movie recommendations.
 
 ---
@@ -150,6 +88,3 @@ https://www.linkedin.com/in/sharanya-shetty-951488263/
 
 ---
 
-<p align="center">
-  <i>"Training models, collecting hobbies, and adding movies to my watchlist faster than reality allows."</i>
-</p>
