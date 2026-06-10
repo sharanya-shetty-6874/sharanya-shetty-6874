@@ -22,22 +22,6 @@
 
 ---
 
-## 🚀 Current Projects
-
-### 🗣️ Kannada Voice RAG System
-A voice-enabled Retrieval-Augmented Generation system for Kannada language information retrieval.
-
-### 🎙️ Deepfake Audio Detection
-Using deep learning and acoustic features to distinguish real and AI-generated speech.
-
-### 🏫 Smart Attendance System
-RFID-based student attendance management system with secure admin and student portals.
-
-### 🤟 Sign Language Recognition
-Real-time ASL gesture recognition and translation system.
-
----
-
 ## 💻 Tech Stack
 ### 👨‍💻 Programming
 
