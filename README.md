@@ -72,9 +72,9 @@
 
 ## 🎨 Fun Facts
 
-- I can discuss movie theories for hours.
-- My music playlist changes every week.
-- Half my saved posts are AI related, the other half are movie recommendations.
+- I can discuss movie theories for hours❤️🔥
+- My music playlist changes every week✨
+- Half my saved posts are AI related, the other half are movie recommendations😎.
 
 ---
 
